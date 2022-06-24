@@ -28,7 +28,7 @@ This is not intended to be a comprehensive list. You will surely have your own f
   * https://github.com/BloodHoundAD/BloodHound
 
 ---
-# training
+# free training
 * ## web application
   * [Burp Suite Academy](https://portswigger.net/training)
 * ## binary analysis
@@ -42,7 +42,7 @@ This is not intended to be a comprehensive list. You will surely have your own f
   * [fuzzysecurity](https://www.youtube.com/channel/UCF0HwgCMJ3ZXSktymhtIIqA)
 
 ---
-# blogs/newsletters
+# blogs and news
 * [Daniel Miessler](https://danielmiessler.com/)
 * [Jason Haddix](https://twitter.com/Jhaddix)
 * [Brian Krebs](https://krebsonsecurity.com/)
@@ -50,9 +50,7 @@ This is not intended to be a comprehensive list. You will surely have your own f
 * [Scott Helme](https://scotthelme.co.uk/)
 * [tl;dr sec](https://tldrsec.com/)
 * [APIsecurity.io](https://apisecurity.io/)
-
----
-# news feeds
+* [Recorded Future](https://go.recordedfuture.com/cyber-daily)
 * [Threatpost](https://threatpost.com/)
 * [Dark Reading](https://www.darkreading.com/)
 * [Talos](https://blog.talosintelligence.com/)
