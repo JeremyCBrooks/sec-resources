@@ -14,6 +14,7 @@ This is not intended to be a comprehensive list, just some of my favorites. You 
   * https://securityheaders.com/
   * https://www.ssllabs.com/ssltest/
   * https://testssl.sh/ (like ssltest, but run locally)
+  * https://requestbin.net
 
 * ## static analysis
   * https://semgrep.dev/
