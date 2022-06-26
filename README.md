@@ -1,11 +1,11 @@
 # sec-resources
 My collection of interesting security resources (tools, training, news feeds, etc).
 
-This is not intended to be a comprehensive list. You will surely have your own favorites. Feel free to share them with me :)
+This is not intended to be a comprehensive list, just some of my favorites. You will surely have your own favorites. Feel free to share them with me :)
 
 ---
 # tools
-* ## pentesting suite
+* ## pentesting
   * https://www.kali.org/
 
 * ## dynamic analysis
@@ -13,14 +13,27 @@ This is not intended to be a comprehensive list. You will surely have your own f
   * https://www.zaproxy.org/
   * https://securityheaders.com/
   * https://www.ssllabs.com/ssltest/
+  * https://testssl.sh/ (like ssltest, but run locally)
 
 * ## static analysis
   * https://semgrep.dev/
 
+* ## malware analysis
+  * https://www.hybrid-analysis.com/
+  * [scdbg - shellcode debugger](http://sandsprite.com/blogs/index.php?uid=7&pid=152&year=2011)
+
 * ## osint
   * https://securitytrails.com/
   * https://www.shodan.io/
-  
+  * https://natlas.io/
+  * https://fofa.info/
+  * https://fullhunt.io/
+
+* ## vulnerability search
+  * https://nvd.nist.gov/vuln/search
+  * https://www.exploit-db.com/
+  * https://cve.mitre.org/cve/search_cve_list.html
+    
 * ## decoders
   * https://cyberchef.io/
 
