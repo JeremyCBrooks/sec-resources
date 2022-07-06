@@ -73,6 +73,7 @@ This is not intended to be a comprehensive list, just some of my favorites. You 
 * [Microsoft Security Response Center](https://msrc-blog.microsoft.com/2020/09/21/new-and-improved-security-update-guide/)
 * [Microsoft Security Blog](https://www.microsoft.com/security/blog/)
 * [Google Security](https://security.googleblog.com/)
+* [SANS OUCH](https://www.sans.org/newsletters/ouch/)
 * [EFF](https://www.eff.org/deeplinks)
 * [ZDNet](https://www.zdnet.com/blog/security/)
 * [CIS](https://www.cisecurity.org/advisory?topic=ms-isac)
