@@ -57,6 +57,7 @@ This is not intended to be a comprehensive list, just some of my favorites. You 
 
 ---
 # blogs and news
+* [All InfoSec News](https://allinfosecnews.com/)
 * [Daniel Miessler](https://danielmiessler.com/)
 * [Jason Haddix](https://twitter.com/Jhaddix)
 * [Brian Krebs](https://krebsonsecurity.com/)
