@@ -7,6 +7,7 @@ This is not intended to be a comprehensive list, just some of my favorites. You 
 # tools
 * ## pentesting
   * https://www.kali.org/
+  * https://offsec.tools/
 
 * ## dynamic analysis
   * https://portswigger.net/burp/
@@ -65,6 +66,7 @@ This is not intended to be a comprehensive list, just some of my favorites. You 
 * [Scott Helme](https://scotthelme.co.uk/)
 * [tl;dr sec](https://tldrsec.com/)
 * [APIsecurity.io](https://apisecurity.io/)
+* [CloudSecList](https://cloudseclist.com/)
 * [Recorded Future](https://go.recordedfuture.com/cyber-daily)
 * [Threatpost](https://threatpost.com/)
 * [Dark Reading](https://www.darkreading.com/)
