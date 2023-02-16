@@ -55,6 +55,8 @@ This is not intended to be a comprehensive list, just some of my favorites. You 
   * [Vulnhub](https://www.vulnhub.com/)
   * [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
   * [fuzzysecurity](https://www.youtube.com/channel/UCF0HwgCMJ3ZXSktymhtIIqA)
+  * [picoctf](https://picoctf.com/)
+  * [tryhackme](https://tryhackme.com/)
 
 ---
 # blogs and news
