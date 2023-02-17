@@ -53,6 +53,7 @@ This is not intended to be a comprehensive list, just some of my favorites. You 
   * [OverTheWire](https://overthewire.org/)
   * [Hack The Box](https://www.hackthebox.com/)
   * [Vulnhub](https://www.vulnhub.com/)
+  * [Metasploitable](https://docs.rapid7.com/metasploit/setting-up-a-vulnerable-target)
   * [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
   * [fuzzysecurity](https://www.youtube.com/channel/UCF0HwgCMJ3ZXSktymhtIIqA)
   * [picoctf](https://picoctf.com/)
