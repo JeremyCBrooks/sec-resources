@@ -44,6 +44,8 @@ This is not intended to be a comprehensive list, just some of my favorites. You 
 
 ---
 # free training
+* ## security job interview
+  * [Grace Nolan's Notes](https://github.com/gracenolan/Notes)
 * ## web application
   * [Burp Suite Academy](https://portswigger.net/training)
 * ## binary analysis
